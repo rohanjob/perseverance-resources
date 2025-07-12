@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Perseverance</title>
+  <title>Suri Anna</title>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
@@ -141,7 +141,7 @@
 <body>
 
   <div class="logo"></div>
-  <h1>Shiva Sai's Perseverance</h1>
+  <h1>Suri TECH</h1>
   <h2>Version 3 — Software Institute</h2>
 
   <div class="character">
