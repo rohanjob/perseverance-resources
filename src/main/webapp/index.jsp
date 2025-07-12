@@ -42,7 +42,7 @@
     </style>
 </head>
 <body>
-    <h1>Shiva Sai's</h1>
-    <h2>VERSION3 PERSEVERANCE SOFTWARE </h2>
+    <h1>JK'S</h1>
+    <h2>Here Don't Fear</h2>
 </body>     
 </html>
